@@ -1,0 +1,7 @@
+export const walletAddresses=
+  [
+    "0x6eff21c2bfdf83a33aa690fe3db17fc672244907",
+    "0x006845eD573359a9f97018CCC1f15d62020A3e7c",
+    "0xfA84ee7E30a6780719876eC5d8a9640f0263979c",
+    "0x0492a80d26ed93742f2a0b67600a774c7cc1a22e"
+  ]
